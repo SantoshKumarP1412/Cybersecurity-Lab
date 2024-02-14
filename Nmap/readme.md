@@ -22,11 +22,12 @@ If a packet matches a rule, it is allowed to pass through the firewall. If it do
 
 Types
 
-Packet filtering firewall
-Stateful inspection firewall
-Application-level gateway firewall
-Next-generation firewall
-Host-based firewall
+Packet filtering firewall,
+Stateful inspection firewall,
+Application-level gateway firewall,
+Next-generation firewall,
+Host-based firewall.
+
 ``Victim`` Setup firewall in kali ``sudo apt install ufw`` user friendly firewall
 
 <img width="1010" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/49eb6b3b-d2ca-4816-b970-770a2dec68aa">
@@ -34,13 +35,28 @@ Host-based firewall
 <img width="687" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/29e3fa0d-033b-45f9-ac1a-1f8c038705b5">
 
 
-``Attacker:``
+``Attacker:`` Command: ``SYN scan -sS``
 
 <img width="913" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/67498362-8271-4ab6-9e75-9960000b9486">
 
 c) Use the NMAP command to scan a network and determine which devices are running.
+
+``Command - nmap -sn <ip>/<CIDR>``
+
+<img width="698" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/ad3144ba-3e1d-43bc-a4cb-503410f96547">
+
+
 d) What are vertical and horizontal scanning?
+
+``Vertical scanning`` also known as service scanning, involves scanning a single host for all the open ports and services that are running on it. This approach allows for a detailed analysis of the individual host, including the versions of services running, operating system, and other relevant information.
+
+``Horizontal scanning`` also known as port scanning, involves scanning multiple hosts for a specific open port or set of ports. This approach allows for a quick overview of the network 
+ or hosts that may have a specific service or vulnerability present.
+
+
 e) Use the NMAP command to scan multiple hosts. [HINT: Add hosts into a file and scan it].
+
+
 f) Use NMAP commands to export the output in XML format.
 g) Use the NMAP command to get OS information about a host.
 h) Explain ping sweeping and Perform ping sweeping using Nmap
