@@ -37,3 +37,20 @@ ICMP Redirect capture in wireshark
 
 <img width="1285" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/cbd98731-bf75-4ee2-b415-a74893ff4cb3">
 
+DNS Spoofing
+
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/529ed7b9-9229-4543-8a1a-a9fcb2e4fc7f)
+
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/cbca4c02-5b43-400e-bb30-928cffc213b7)
+
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/97f01474-c45c-4326-a7cf-2026b536a85c)
+
+Dos Spoofing
+
+Start dos_attack extension, then we can see that packets are also redirected and www.amrita.edu website will not be loaded
+
+
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/0c3e0108-ab18-43ea-b7d3-b573e2b1eee5)
+
+
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/b2644e38-bcc4-413c-8985-9c71d55bbf56)
