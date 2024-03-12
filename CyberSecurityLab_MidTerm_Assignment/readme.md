@@ -66,11 +66,16 @@
 
 <img width="921" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/bbf146e6-95ba-4125-8a53-c2d30e9b0c00">
 
-Processing the password cracking from wordlist
+## Processing the password cracking from wordlist 
+
+```aircrack-ng midterm2.pcap -w q.txt```
 
 <img width="882" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/39447639-201e-4ddd-9b49-b3082c4a11e4">
 
 
+## Password Cracked:
+
+<img width="773" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/12f11367-5fcf-46e2-af1d-7938d76fca7c">
 
 
  
