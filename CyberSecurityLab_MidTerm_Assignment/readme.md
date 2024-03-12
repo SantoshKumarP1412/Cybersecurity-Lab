@@ -14,9 +14,12 @@ Starting ARPspoofing
 
 <img width="994" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/6aaf35b1-d2fe-4a6e-b8c9-1af4b02bf752">
 
+DNS spoofing started 
  
+<img width="1264" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/63accda4-beff-4d33-a3d9-3aa10d37ee4d">
 
- 
+ <img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/5ed22f6c-c0f8-4856-9686-f94a08538a58">
+
 
 ## b. Use ICMP Packets to perform only DDOS attacks over the victim. 
 
