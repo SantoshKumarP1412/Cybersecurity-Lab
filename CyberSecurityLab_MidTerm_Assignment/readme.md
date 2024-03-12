@@ -95,5 +95,11 @@
 
 <img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/2b26858b-f0f9-460b-bee8-b9a0a5040651">
 
+## First,  skinny protocol connection is made, after which an RTP protocol connection is made and the VoIP conversation is disconnected.
+
+```skinny protocol```
+```Real time transport protocol```
+
+<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/bcc3c225-88e6-4944-b0a0-b8fce7c01b4b">
 
  
