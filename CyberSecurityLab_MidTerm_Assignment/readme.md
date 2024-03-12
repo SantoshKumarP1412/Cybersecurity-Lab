@@ -83,5 +83,11 @@
 ## b. Analyse the decrypted traffic using tools to identify the malicious/suspicious activity recorded in the WLAN.  
 
 
+<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/a270c337-3223-4b25-907d-96d087af613d">
+
+
+<img width="912" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/7fd6e717-967b-4919-a153-a00875a3d45c">
+
+<img width="987" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/db788193-3714-41ff-8836-1abc8d7ecbe4">
 
  
