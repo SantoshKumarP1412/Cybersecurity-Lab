@@ -4,9 +4,15 @@
 
 ## a. Use ARP packets to perform the DNS spoofing attack. Whatever the website the user types, it should navigate to http://testphp.vulnweb.com/login.php as a part of the attack. 
 
-   
+   ```Attacker 10.211.56.4```
+   ```Victim 10.211.56.5```
 
 
+Starting ARPspoofing
+
+<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/3ca0a6b0-2cb6-4d2f-9e1b-cca8c41c2e20">
+
+<img width="994" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/6aaf35b1-d2fe-4a6e-b8c9-1af4b02bf752">
 
  
 
