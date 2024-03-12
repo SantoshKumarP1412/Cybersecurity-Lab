@@ -39,7 +39,10 @@ DNS spoofing started
 
 ## a. Capture these above attacks using Splunk in an active or passive method. 
 
- 
+ Passive Logs
+
+ <img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/a543bbdc-2386-40de-8fef-44ddebd18fd8">
+
 
 ## b. Identify and Analyse the Indicator of Compromise for the attack.  
 
