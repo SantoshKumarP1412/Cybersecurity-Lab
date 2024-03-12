@@ -82,6 +82,7 @@
 
 ## b. Analyse the decrypted traffic using tools to identify the malicious/suspicious activity recorded in the WLAN.  
 
+```Open Wireshark and select the provided CAP file. Then navigate to Edit > Preferences > Protocols > IEEE 802.11 > Decryption Keys > Edit.```
 
 <img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/a270c337-3223-4b25-907d-96d087af613d">
 
