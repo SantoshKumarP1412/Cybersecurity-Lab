@@ -91,4 +91,9 @@
 
 <img width="987" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/db788193-3714-41ff-8836-1abc8d7ecbe4">
 
+```on analysing PCAP file, we can get that VOIP call is made through skinny protocol and all details regarding calls.```
+
+<img width="1439" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/2b26858b-f0f9-460b-bee8-b9a0a5040651">
+
+
  
