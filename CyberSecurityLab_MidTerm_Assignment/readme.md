@@ -72,9 +72,21 @@ File Hash, Suspicious IP Address and anamoulous Login Activity
 
 ## c. Explore and create an Alert for similar attacks in the Future.  
 
- 
+ we should create an alert to monitor such type of events when encountered in future.
+<img width="747" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/667f8b65-8161-4efc-a7a8-d34ee45232ec">
 
- 
+After Creating an alert
+
+<img width="933" alt="image" src="https://github.com/SantoshKumarP1412/Cybersecurity-Lab/assets/140537888/bafb31f9-fd51-4d66-b208-60cd4d3718b1">
+
+first selecting due to which incident the attack is generated
+Select Monitoring tool
+Create alerts.
+Test the alerts
+Fine- Tuning the alert
+Document the alert rules which are craftes
+Continuous Improvement.
+
 
  
 
